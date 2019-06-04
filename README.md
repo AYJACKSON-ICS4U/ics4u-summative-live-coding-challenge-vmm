@@ -1,5 +1,6 @@
-# CodingChallenge
-Coding Challenge Starter Repository
+# 2D Raycasting Coding Challenge
+### [Link to Slides](https://docs.google.com/presentation/d/1_yh0PpnUgI8QXLlcjAElu0g3vlbPVGtxXZ93G6-ggUI/edit?usp=sharing)
+### [Link to GitHub Repository](https://github.com/Vinaymeldrum/2D-Raycasting)
 
 Deliverables:
 
